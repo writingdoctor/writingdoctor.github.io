@@ -8,8 +8,8 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Doctor Writing 作文醫生</title>
-  <meta name="description" content="為您的作文診斷、分析並提供更好的方式與進步" />
+  <title>Writing Doctor 作文醫生 &middot; Doctor Writing 作文醫生</title>
+  <meta name="description" content="" />
 
   
   <link type="text/css" rel="stylesheet" href="https://writingdoctor.github.io/css/print.css" media="print">
@@ -24,7 +24,6 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  <link href="https://writingdoctor.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Doctor Writing 作文醫生" />
   
 </head>
 
@@ -50,33 +49,13 @@
 </aside>
 
     <main class="content container">
-    <div class="posts">
-<article class="post">
-  <h1 class="post-title">
-    <a href="https://writingdoctor.github.io/posts/my-first-post/">Writing Doctor 作文醫生</a>
-  </h1>
-  <time datetime="2022-01-10T23:17:49-0800" class="post-date">Mon, Jan 10, 2022</time>
-  [自我介紹]
-十五年以上教學經驗,備有教師證。
-精通國中國文課程,精通作文批改方式,
-對於寫作教學亦有獨到方法。
-學生素質有菁英資優生亦有補救教學特教生,
-因材施教,對症下藥。
-亦引導學生作文由2級分進步至5級分。
-對於國文教學的理念不同於以往填鴨式教學,
-而在於啟發學生對文字細膩的敏感度及語言美感的體現,
-以活潑討論的方式帶領學生探究課文中的一字一句,
-重建學生對語文的興趣,進而質變影響孩子的文字創作。
-國文的成績無法一下如同數學有超英趕美的表現,
-唯有在孩子心中種下一顆種子等待期發芽茁壯；
-國文的成績雖然只是一時,
-但未來求職面試抒發心情文字卻是最可靠的利器。
-[收費]
-為您的一篇作文(1000字內)做診斷分析與建議，分析與建議字數不低於200字
-收費1000元/一篇作文 
+    <div class="post">
+  <h1>Writing Doctor 作文醫生</h1>
+  <time datetime=2022-01-10T23:17:49-0800 class="post-date">Mon, Jan 10, 2022</time>
   
-</article>
 </div>
+
+
     </main>
 
     
